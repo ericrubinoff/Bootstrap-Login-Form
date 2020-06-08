@@ -1,0 +1,53 @@
+body {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+
+html, body {
+    height: 100%;
+}
+
+.form-signin {
+    width: 90%;
+    max-width: 400px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+a {
+color: #f75cb5;
+}
+
+.form-control {
+margin-top: 0.3rem;
+margin-bottom: 0.3rem;
+height: 45px;
+}
+
+.btn-primary {
+    height: 45px;
+}
+
+label {
+    margin: 0;
+}
+
+hr {
+ width: 100%;
+}
+
+.row {
+ width: 100%;
+    margin: 0px;
+
+}
